@@ -1,0 +1,15 @@
+{
+  "name": "backfrontend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "serve.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Enock",
+  "license": "ISC",
+  "dependencies": {
+    "concurrently": "^7.2.2",
+    "express": "^4.18.1"
+  }
+}
